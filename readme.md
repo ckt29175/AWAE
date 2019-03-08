@@ -1,5 +1,5 @@
-AWAE Notes
+AWAE (Advance Web Attacks and Exploitation) cert notes
 
-I am beta tester 
+I was invited to beta test
 
 Soon to come
